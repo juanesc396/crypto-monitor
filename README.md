@@ -17,3 +17,7 @@ Technologies Used
 - RSS: To handle news.
 - Grafana - Prometheus: Handle and show btc timeseries and news.
 - Postgres: As DB.
+
+Grafana View
+
+![grafana](crypto_monitor.png)
