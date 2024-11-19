@@ -1,0 +1,7 @@
+kafka_data
+kafka_creds
+grafana_storage
+mongo_data
+postgres_data
+req.txt
+.env

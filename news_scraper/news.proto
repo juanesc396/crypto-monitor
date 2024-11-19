@@ -1,0 +1,9 @@
+syntax = 'proto3';
+
+message News {
+    string title = 1;
+    string date = 2;
+    string newspaper_name = 3;
+    string epigraph = 4;
+    string paragraph = 5;
+}
